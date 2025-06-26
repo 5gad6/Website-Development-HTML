@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html" class="active">CONTACT US</a>
+        </nav>
+
+
+    <h1><center>Contact Us</center></h1>
+
+  <div class="container">
+        <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d39713.825109767844!2d0.041128399999999996!3d51.5294676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1708964905845!5m2!1sen!2suk" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+        <main class="form">
+            <form>
+            <h3>Get in Touch</h3>
+            <p>HAVE ANY CONCERNS? LEAVE YOUR DETAILS AND WE WILL GET BACK TO YOU.</p>
+            <div class="inputBox">
+                <span class="fas fa-user"></span>
+                <input type="text" placeholder="Name">
+            </div>
+            <div class="inputBox">
+                <span class="fas fa-envelope"></span>
+                <input type="email" placeholder="Email Address">
+            </div>
+            <div class="inputBox">
+                <span class="fas fa-phone"></span>
+                <input type="tel" placeholder="Number">
+            </div>
+            <input type="submit" value="SUBMIT" class="btn">
+        </form>
+     </main>
+ </div>

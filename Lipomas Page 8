@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html" class="active">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+
+            <h3><center>LIPOMAS</center></h3>
+<p>Lipomas, like soft tissue sarcomas, grow under the skin, however they are soft fatty lumps which are benign. They are harmless and do not usually need 
+any treatment. Although lipomas are benign, it is important to get any lumps checked. They may appear on the <i>shoulders, chest, bottom, thighs, arms,</i> on 
+the <i>back</i> and sometimes on the <i>forehead.</i> <br>Lipomas are very common and appear mostly between the ages of 40 and 60, however they can develop at any age, even 
+at birth. They affect people of all genders but are more common in women than in men. Lipomas rarely grow on muscles, internal organs or the brain.  
+
+<h3>Symptoms of Lipomas </h3>
+Below are some symptoms that may alert you to a lipoma, however, many people with lipomas do not usually 
+notice any symptoms.
+<ul>
+  <li>They feel soft and squishy.</li> 
+  <li>They can be anything from the size of a pea to a few centimeters across.</li> 
+  <li>They may move slightly under the skin when touched.</li> 
+  <li>They are usually painless.</li> 
+  <li>They have a slow growth rate.</li> 
+  <li>They can appear anywhere on the body.</li> 
+</ul>
+
+<h3>Causes of Lipomas</h3> 
+<p>The exact causes of lipomas are not known, however an individual is more likely to develop a lipoma if someone in the family has it, as it can be passed 
+down through families (hereditary).</p>
+
+<p>Some conditions known to cause lipomas include; </p>
+<ul>
+   <li><b>Dercum’s disease,</b> also known as adiposis dolorosa or Anders’ syndrome is a rare disorder that causes painful lipomas to grow, most often on 
+   the arms, legs and trunk.</li> 
+   <li><b>Gardner syndrome</b> is a form of a disorder called familial adenomatous polyposis (FAP) that causes lipomas and a range of health problems such as 
+   colorectal cancer and dental abnormalities.</li> 
+   <li><b>Hereditary multiple lipomatosis</b>, also called familial multiple lipomatosis, is an inherited disorder (passed down through families).</li> 
+   <li><b>Madelung’s disease,</b> also called multiple symmetric lipomatosis, is a condition that occurs most often in men who drink alcohol excessively, 
+   causing lipomas to grow around the neck and shoulders. </li>
+</ul>
+
+<h3>Types of Lipomas</h3> 
+<p>All lipomas are made of fat and only some contain blood vessels or other tissues. Some types of lipomas include; </p>
+<ul>
+   <li><b>Angiolipoma</b> is a type of lipoma that contains fat and blood vessels and is often painful.</li> 
+   <li><b>Conventional lipoma</b> is the most common type of lipoma, containing white fat cells which store energy.</li> 
+   <li><b>Fibrolipoma</b> is mainly made up of fat and fibrous tissues.</li> 
+   <li><b>Hibernoma</b> is a type of lipoma containing brown fat whereas most other lipomas contain white fat. Brown fat cells generate heat and help regulate 
+    body temperature.</li> 
+   <li><b>Myelolipoma</b> is a type of lipoma containing fat and tissues that produce blood cells.</li> 
+   <li><b>Spindle cell</b> is another type of lipoma that contains fat cells which are longer than they are wide.</li> 
+   <li><b>Pleomorphic</b> lipomas have fat cells of various shapes and sizes. </li>
+</ul>
+
+<h3>Management and Treatment</h3> 
+<p>Whereas lipomas are harmless and usually not painful, they can be uncomfortable if they press against a nerve or develop near a joint. Most lipomas do not 
+need to be removed, however if they cause, pain or discomfort, they can be surgically removed. As an alternative to lipoma removal surgery, liposuction may
+be recommended where a thin needle is used to remove fatty tissue from the growth.</p>   
+
+<h3>Prevention</h3> 
+<p>Since lipomas are usually inherited from family, there are no preventive measures. To reduce the risk of developing Madelung's disease, a condition that 
+causes lipomas to grow, limit the amount of alcohol intake.</p>
+
+
+
+            <p align= "center"> <a href= "Myelomas cancer.html" class="btn">Next Page</a></p>
+
+</body>
+</HTML>

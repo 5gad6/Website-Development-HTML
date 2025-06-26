@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html" class="active">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+            <h3><center>LYMPHOMAS</center></h3>
+<p><b>Lymphoma</b> is a cancer of the lymphatic system that develops when blood cells called lymphocytes become abnormal. Normal lymphocytes are a part of the lymphatic system and fight infections. The lymphatic system helps protect the body from against infection and diseases. It is made up of fine tubes connected to groups of small lymph nodes throughout the body.</p>
+
+<h3>Types of Lymphomas</h3>
+There are <b>two main</b> types of lymphomas namely Hodgkin lymphoma and non-Hodgkin lymphoma (NHL) and more than 70 sub types. 
+
+<h3>Signs and Symptoms of Lymphoma</h3>
+Many lymphoma symptoms are like symptoms of other, less serious diseases so having these symptoms doesn’t mean that you have lymphoma. However, consider talking to a healthcare provider whenever you have changes in your body that don’t go away within a few weeks. Some common signs and symptoms of lymphoma can include:
+<ul>
+  <li>Painless swelling of one or more lymph nodes in your neck, armpits or groin that doesn’t go away within a few weeks.</li>
+  <li>Persistent fatigue.</li>
+  <li>Persistent fever.</li>
+  <li>Drenching night sweats.</li>
+  <li>Shortness of breath (dyspnea).</li>
+  <li>Unexplained weight loss.</li>
+
+<h3>Causes of Lymphoma</h3>
+Lymphoma happens when the white blood cells in your lymphatic system change (mutate) into rapidly growing cancer cells that don’t die. Like most cancers, the majority of the genetic mutations that cause lymphoma happen spontaneously, without an identifiable cause. According to research, some conditions or issues that may increase risk of developing lymphoma include:
+<ul>
+  <li>Having or have had viruses including HIV (human immunodeficiency virus), Epstein-Barr (mononucleosis) and Kaposi sarcoma human immunodeficiency virus.</li>
+  <li>Family history of lymphoma.</li>
+  <li>Weakened immune system by other conditions or medical treatments like immunosuppressant medication after an organ transplants.</li>
+  <li>Presence of autoimmune disease such as lupus.</li>
+</ul>
+
+<h3>Treatment</h3>
+The treatment of lymphoma may vary depending on the type and stage of the lymphoma, the grade (high and low), symptoms, parts of the body affected, the general health of the patient and the preferences of the patient. Common treatment options include:
+<ul>
+  <li>Chemotherapy.</li>
+  <li>Radiation therapy.</li> 
+  <li>Targeted Therapy.</li>
+  <li>Immunotherapy.</li>
+  <li>Stem cell transplant.</li>
+  <li>CAR T-cell therapy.</li>
+ 
+
+
+           <p align= "center"><a href= "Contact.html" class="btn">Contact Us</a></p>
+
+
+
+</body>
+</HTML>

@@ -1,0 +1,110 @@
+body {
+  background-color: white;
+  color: #62194e;  
+  font-family: 'Times New Roman';
+  padding-top: 60px;
+  font-size: 17px;
+  background-image: url('images/cancer1.avif');
+  background-repeat: no repeat;
+  background-attachment: not fixed;
+  background-size: cover;
+}
+
+
+.nav {
+  background-color: #f9b2e5;
+  padding: 7px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+ }
+
+.nav a {
+  font-weight: bold;
+  color: #62194e;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 8px 8px;
+  margin: 5px 3px;
+
+  
+}
+
+.nav a.active{
+  background-color: #f975d3;
+  border-radius: 110px;
+  outline: 2px solid #f975d3;  
+}
+
+nav a:hover {
+  background-color: #f975d3;
+  border-radius: 110px;
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+ }
+ 
+.content img {
+  margin-right: 20px; 
+}
+
+
+
+.container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+} 
+
+
+.map{ 
+    display: flex;
+    flex: 1 1 45rem;
+    width: 1000px;
+    height: 700px; 
+    object-fit: cover;
+}
+
+
+.form {
+  font-size: 50px;
+  margin-left: 20px;
+  padding: 90px;
+  width: 30%;
+  border-radius: 60px;
+}
+
+.form p {
+font-size: 15px;
+}
+
+
+.inputBox {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 15px; 
+}
+
+.inputBox input {
+    flex: 1; 
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    width: 100%; 
+}
+
+.btn {
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+}

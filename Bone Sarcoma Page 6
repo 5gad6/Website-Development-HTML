@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html" class="active">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+
+            <h3><center>BONE SARCOMAS</center></h3>
+      Bone sarcoma, also known as <b>bone cancer,</b> can affect any bone in the body, but in most cases, it develops in the long bones of the legs or upper arms. 
+Primary bone cancer is a separate condition from secondary bone cancer caused by <a href="Metastasis.html">metastasis</a>. The main symptoms of bone cancer 
+consistent bone pain that gets worse over time and continues into the night, inflammation over the bone which if near a joint can make movements difficult, 
+a noticeable lump over a bone, and weak bones that break more easily compared to normal bones. Some other symptoms of bone sarcoma include unexplained weight loss, high temperature and sweating particularly at night. 
+
+<h3>Types of Bone Cancer</h3>
+<ol>
+   <b><li><i>Osteosarcoma</b></i> - the most common type of bone sarcoma, affecting children and young adults under the age of 20.</li> 
+   <b><li><i>Ewing Sarcoma</b></i> – mostly affecting people between the ages of 10 and 20.</li> 
+   <b><li><i>Chondrosarcoma</b></i> – mostly affects adults over the age of 60.</li>
+</ol>
+ 
+<h3>Causes of Bone Sarcoma</h3> 
+In most cases, the causes of bone cancer are not known, however, circumstances that predispose a person to this type of cancer are: 
+<ul>
+   <li>Having had exposure to radiation during radiotherapy.</li> 
+   <li>Having a condition known as Paget’s Disease (most people with this condition, however, do not develop bone cancer)</li> 
+   <li>Having genetic conditions such as <i>Li-Frumeni syndrome.</i></li>
+</ul>
+
+<h3>Treatment</h3> 
+The treatment of bone sarcoma depends on what type of bone sarcoma it is, how much it has developed and how far it may have spread. Some treatment 
+options include: 
+<ul>
+   <li>Surgery to remove the cancerous bone, which is often possible to reconstruct or replace, however, amputation may sometimes necessary.</li> 
+   <li>Chemotherapy.</li> 
+   <li>Radiotherapy.</li>
+  
+
+           <p align= "center"> <a href= "Metastasis.html" class="btn">Next Page</a></p>
+    
+
+
+</body>
+</HTML>

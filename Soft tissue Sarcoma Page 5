@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html" class="active">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+
+
+
+            <h3><center>SOFT TISSUE SARCOMA<center></h3>
+ <p>Soft tissue sarcoma is a rare type of cancer originating from the soft tissues of the body such as muscle, fat, blood vessels, ligaments and tendons. 
+Soft tissue sarcoma is mostly common in people over the age of 65 or anyone who has previously been treated with radiotherapy. The severity of soft tissue
+sarcoma depends on the general wellbeing of the patient and the origin of the cancer.</p> 
+
+<h3>Symptoms of Soft Tissue Sarcoma.</h3> 
+<p>The most common symptom of soft tissue sarcoma is a <b>lump</b> in any part of the body usually found deep under the skin. These lumps mostly can be felt before they are seen. 
+The lump is usually solid to touch and hard to move around the skin. This will continue to grow and eventually become painful. Symptoms may vary depending on where in the body the lump is located. For example, sarcoma near the stomach may cause stomach pains and constipation and sarcoma near the lungs may cause persistent cough. 
+It is important to see your GP if you have a lump somewhere on your body, however, lumps and swellings are very common and be caused by many different 
+conditions. Having a lump or swelling does not definitely mean you have soft tissue sarcoma, however if these symptoms are caused by cancer, finding it 
+early may make it easier to treat.</p>  
+
+<h3><b>Causes of Soft Tissue Sarcoma</b></h3> 
+<p>Soft tissue sarcoma is a rare type of cancer making it difficult to find out its main causes. Some contributing factors are:</p> 
+<ul>
+  <li>Previous radiotherapy</li> 
+  <li>Soft tissue sarcoma (Kaposi’s sarcoma) caused by HIV if left untreated.</li> 
+  <li>Neurofibromatosis, a genetic condition that causes the growth of benign tumors along the nerves.</li> 
+  <li>Retinoblastoma, a rare type of childhood eye cancer.</li>
+</ul>
+
+<h3>Tests For Soft Tissue Sarcoma</h3> 
+<p>More tests and scans will be needed to confirm soft tissue sarcoma if referred to a specialist. Some of these tests may include blood tests, ultrasound, MRI and CT scans, and a biopsy (collecting a small sample of cells from the lump for further testing).  
+Depending on the severity of the symptoms and condition of the patient, not every one of these tests may be needed.</p> 
+
+<h3>Treatment</h3> 
+Soft tissue sarcoma is usually treated through <i>radiotherapy, surgery, chemotherapy, or target medications.</i>
+The treatment of soft tissue sarcoma depends on; 
+<ul>
+  <li>The size of the cancer</li>
+  <li>The type of soft tissue sarcoma</li> 
+  <li>Location</li> 
+  <li>The general health of the patient</li> 
+  <li>If it has spread to other parts of the body</li>
+</ul>
+     
+
+           <p align= "center"> <a href= "Bone Sarcoma.html" class="btn">Next Page</a></p>
+        </div>
+</body>
+</HTML>

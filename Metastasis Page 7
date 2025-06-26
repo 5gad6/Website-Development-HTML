@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html" class="active">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+            <h3><center>WHAT IS METASTASIS?</center></h3>
+<p>Metastasis refers to when cancer in one part of the body migrates from the origin to other locations in the body. 
+Nearly all cancers can <i>metastasize,</i> however, this is dependent on <br>several - factors such as the size, type and origin of the primary tumor.</p> 
+
+
+<div class="content">
+<img src="images/metastasis.jpg" alt="Metastasis of Cancer"> 
+<div>
+<p>Metastasis can occur in three different ways.<br> 
+<b>The cancer cells can:</b>
+<ul>
+  <li>Grow into the surrounding tissues surrounding the primary tumor.
+  <li>Travel through the bloodstream to distant locations.
+  <li>Migrate through the lymphatic system to nearby or distant lymphatic nodes.
+</ul>
+<hr>
+<p>Metastasis may also be referred to or known as <b><i>metastatic cancer, stage IV (4) cancer, secondary cancer, or cancer with mets.</i></b></p>
+
+</div>
+</div>
+
+
+<h3>Which Cancers Metastasize?</h3>
+Almost all cancers can migrate around the human body. Some of these include:
+<ul>  
+  <li>Breast cancer</li>
+  <li>Colorectal cancer</li>
+  <li>Esophageal cancer</li>
+  <li>Lung cancer</li>
+  <li>Ovarian cancer</li>
+  <li>Pancreatic cancer</li>
+  <li>Prostate cancer</li>
+  <li>Skin cancers</li>
+  <li>Stomach cancer</li>
+  <li>Uterine cancer</li>
+</ul>
+
+<h3>Where Does Cancer Metastasize First?</h3>
+Where cancer metastasis first depends on the origin of the primary tumor. Some of the most common locations of metastasis in the body are the 
+<ul>
+  <li>Adrenal glands</li> 
+  <li>Bones</li> 
+  <li>Brain</li> 
+  <li>Liver</li> 
+  <li>Lungs </li>
+  <li>Lymph nodes</li> 
+  <li>Peritoneum</li>
+</ul>
+
+
+<br>
+           <p align= "center"><a href="Lipomas.html">Next Page</a></p>
+
+
+</body>
+</HTML>

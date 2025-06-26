@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html" class="active">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+            <h3><center>LEUKEMIAS</center></h3>
+<p><b>Leukaemia,</b> like myeloma, is a form of blood cancer that starts in the bone marrow and the lymphatic system. There are many types of leukaemias, some of which are more common in children while others occur mostly in adults. Leukaemia involves the <b>white blood cells</b> which are potent infection fighters that normally grow and divide in an orderly manner as it is needed by the body.</p>
+
+<h3>Signs and Symptoms</h3> 
+Signs and symptoms of leukaemias vary depending on the type of leukemia. Some common signs and symptoms of leukemia include:
+<ul>
+  <li>Fever or chills.</li>
+  <li>Persistent fatigue, weakness.</li>
+  <li>Frequent or severe infections.</li>
+  <li>Losing weight without trying.</li>
+  <li>Swollen lymph nodes, enlarged liver or spleen.</li>
+  <li>Easy bleeding or bruising.</li>
+  <li>Recurrent nosebleeds.</li>
+  <li>Tiny red spots in your skin (petechiae).</li>
+  <li>Excessive sweating, especially at night.</li>
+  <li>Bone pain or tenderness.</li>
+</ul>
+Leukemia symptoms are often vague and not specific and may be overlooked in the early stages because they may resemble symptoms of the flu and other common illnesses. Leukemia is sometimes discovered during blood tests for some other condition.
+
+<h3>Causes</h3> 
+The exact cause of Leukaemia is not known but it is believed to develop from a combination of genetic and environmental factors. 
+
+<h3>Classifications of Leukaemias</h3> 
+<ol>
+  <li><b>Classification by Rate of Progression</b></li>
+         <ul>
+          <li><b> Acute leukaemia</b> is a type of leukaemia where the abnormal blood cells are immature blood cells (blasts) and can't carry out their normal functions. These immature cells multiply rapidly, so the disease worsen quickly. Acute leukemia requires aggressive, timely treatment. </li><br>
+         <li> <b>Chronic leukaemia</b> causes the body to produce too many cells and some cause too few cells to be produced. There are many types of chronic leukemias. Chronic leukaemia involves more-mature blood cells which replicate or accumulate more slowly and can function normally for a period of time. Some forms of chronic leukemia initially produce no early symptoms and can go unnoticed or undiagnosed for years. </li> 
+         </ul><br>
+ <li><b>Classification by White Blood Cell Type</b></li>
+         <ul>
+          <li><b> Lymphocytic leukaemia</b> is a type of leukaemia that affects the lymphoid cells (lymphocytes), which form lymphoid or lymphatic tissue. Lymphatic tissue makes up the immune system.</li><br>
+          <li><b> Myelogenous leukaemia</b> is a type of leukaemia that affects the myeloid cells. Myeloid cells give rise to red blood cells, white blood cells and platelet-producing cells.</li>
+      </ul>
+</ol>
+
+<h3>Types of Leukaemias</h3>
+The major types of leukaemias are:
+<ul>
+  <li><b>Acute Lymphocytic Leukaemia (ALL). </b>This is the most common type of leukaemia in young children but can also occur in adults.</li>
+  <li><b>Acute Myelogenous Leukaemia (AML).</b> AML is a common type of leukaemia that occurs in children and adults. AML is the most common type of acute leukemia in adults.</li>
+  <li><b>Chronic Lymphocytic Leukaemia (CLL)</b> is the most common chronic adult leukemia. A person may feel well for years without needing treatment.</li>
+  <li><b>Chronic Myelogenous Leukaemia (CML)</b> is a type of leukaemia that mainly affects adults. A person with CML may have few or no symptoms for months or years before entering a phase in which the leukaemia cells grow more quickly.</li>
+  <li>Other, rarer types of leukaemia that exist include <b>hairy cell leukaemia, myelodysplastic syndromes and myeloproliferative disorders.</b></li>
+
+<h3>Risk Factors</h3>
+Some factors that may increase a person’s risk of developing some types of leukaemias are:
+<ul>
+  <li>Previous cancer treatment by chemotherapy and radiation therapy.</li>
+  <li>Genetic disorders such as down syndrome.</li>
+  <li>Exposure to certain chemicals such as benzene.</li>
+  <li>Smoking.</li>
+  <li>Family history of leukaemia.</li>
+</ul>
+Note that most people with known risk factors do not develop leukaemia and many people with leukaemia have none of these risk factors.
+
+<h3>Treatment</h3>
+<p>Leukaemia may be treated with chemotherapy, radiation therapy, targeted therapy, bone marrow or stem cell transplant, immunotherapy among others. The option of treatment is dependent of the type of leukaemia, general health diagnosis, white cell count, rate of disease progression, medical history, symptoms, etc.</p>
+
+
+
+           <p align= "center"> <a href= "Lymphomas.html" class="btn">Next Page</a></p>
+        </div>

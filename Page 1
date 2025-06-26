@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html" class="active">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>        </nav>
+
+            <h3><center>INTRODUCTION</center></h3>
+<h3>Overview</h3>
+<p>The focus of discussion for this website is cancer, its types, and their causes and treatment. There are the currently common types of cancer known. The exact causes of cancers are not known however, some common risk factors include exposure to certain chemicals, medical history and family history, since most cancers are hereditary.</p> 
+<h3>Topics</h3>
+The topics discussed under cancer are:
+<ul>
+  <li>Carcinomas.</li>
+  <li>Sarcomas.</li>
+  <li>Metastasis.</li>
+  <li>Lipomas.</li>
+  <li>Myelomas.</li>
+  <li>Leukemias.</li>
+  <li>Lymphomas.</li>
+</ul>
+
+<p><b>Note</b> that, having a lump or any symptoms of any type of cancer does not mean you have it. Further testing must be carried out to confirm this.</p>
+  
+<a href="https://www.cancer.gov/about-cancer/understanding/what-is-cancer">Learn More</a>
+
+
+
+           <p align= "center"><a href= "Home cancer.html" class="btn">Next Page</a></p>
+
+
+
+</body>
+</HTML>

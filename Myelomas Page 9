@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+
+
+<body>
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html" class="active">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+
+            <h3><center>MYELOMAS</center></h3>
+<p><b>Myeloma,</b> also called <b>multiple myeloma,</b> is a cancer of the plasma cells, which are white blood cells that make antibodies that protects the body from infections. 
+Multiple myelomas is the most common type of plasma cell tumor that develops in the bone marrow and can spread throughout the body. There are <i>two forms</i> which are <b>solitary plasmacytoma</b> and 
+<b>extramedullary plasmacytoma.</b> Solitary plasmacytoma is a single plasma cell tumor that develops in one part of the body, often in the bone. Extramedullary plasmacytoma is a plasma tumor that develops outside of the bones in soft tissues like the throat or lungs.</p> 
+
+<h3>Symptoms</h3>
+Myelomas don’t usually cause a lump or tumor, instead, they damage the  bones and affect the production of healthy blood. They sometimes do not show any symptoms, most especially in the early stages but can be found when a urine or blood test is done and a higher-than-normal protein level is found. In the advanced stage, some symptoms may include:
+<ul>
+  <li>Bone pain, especially in the back or ribs.</li>
+  <li>Bones that break easily.</li>
+  <li>Fever for no known reason.</li>
+  <li>Frequent infections.</li>
+  <li>Bruising or bleeding easily.</li>
+  <li>Trouble breathing.</li>
+  <li>Weakness of the arms or legs.</li>
+  <li>Feeling very tired.</li>
+</ul>
+
+
+<h3>Causes of Myeloma</h3>
+<p>The main cause of myelomas is unknown, however, the most significant risk factor for developing myeloma is age. In rare cases, exposure to x-rays or other kinds of ionizing radiation may be a risk factor for developing myelomas. Being overweight and having obesity have been linked with a higher risk of getting multiple myelomas. People younger than 45 years old rarely develop myeloma and men are more likely to develop it than women. Myeloma is more than twice as common among black people as among white people.</p> 
+
+<h3>Treatment</h3>
+<p>Treatment for multiple myeloma usually include taking anti-myeloma medications and procedures to treat symptoms and destroy the myelomas cells or to control the cancer when it relapses.
+Treatment most often helps to control the condition for several years, but most cases of myeloma cannot be cured.</p> 
+
+
+
+
+           <p align= "center"> <a href= "Leukemias.html" class="btn">Next Page</a></p>
+
+
+
+</body>
+</HTML>

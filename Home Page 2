@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html" class="active">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+
+        
+            <h3><center>WHAT IS CANCER?</center></h3>
+
+<p>Normally, human cells grow and multiply, through a process called cell division, to form new cells as the body needs them.
+Cancer is a disease in which some of these cells grow uncontrollably and spread to other parts of the body.</p>
+<p>When cells grow old or become damaged and die, cell division occurs to replace the dead cells. This orderly process sometimes 
+breaks down and abnormal or damaged cells grow and multiply when they shouldn’t. These cells form tumors, which are lumps of body tissue,
+that can be <b><i>malignant</i></b> (cancerous) or <b><i>benign</i></b> (not cancerous).</p>
+<p>Cancerous tumors spread and invade into nearby tissues and can travel to distant places in the body to form new tumors. For example, cancer 
+can spread from the breast to the brain and from the brain to the lungs. This is a process called <b><i>metastasis.</i></b>
+<p><b>Cancers mostly form solid tumors, however cancers of the blood, such as leukemias, generally do not.</b></p>
+<p>Benign tumors do not spread into or invade nearby tissues. When removed, benign tumors don’t usually grow back,
+whereas malignant tumors sometimes do. Benign tumors are sometimes quite large and can cause serious symptoms and can be life threatening, such as benign tumors in the brain.
+</p> 
+
+<h3>Differences Between Cancer Cells and Normal Cells</h3>
+<ul>
+   <li>Cancer cells <b><i>grow</i></b> when and where they are not needed whereas normal cells only grow when and where they are needed.</li>
+   <li>Cancer cells <b><i>invade</i></b> nearby areas and spread into other areas of the body whereas most normal cells do not move around the body and stop growing 
+   when they encounter other cells.</li>
+   <li>Cancer cells <b><i>trick</i></b> the immune system to protect it instead of attacking it and helps it stay alive and grow.</li>
+   <li>Cancer cells <b><i>accumulate</i></b> multiple changes in their chromosomes, such as duplicating and erasing chromosome parts.</li>
+   <li>Cancer cells <b><i>rely</i></b> on different kinds of nutrients in an abnormal way than most normal cells to create energy and grow more quickly.</li>
+</ul>
+<p>Cancer cells are mostly mainly dependent on these abnormal behaviors that  they cannot survive without them, therefore, researchers have taken advantage of this fact,
+ developing therapies that target these abnormal features. <b>For example,</b> some cancer therapies prevent blood vessels from growing towards the tumors,
+ essentially depriving it of the needed nutrients for growth.</p>  
+
+<a href= "https://youtube.com/watch?v=SGaQ0WwZ_0I&si=pn4HfKNO2Sgm_vQ1">Learn more about the anatomy of cancer</a>
+<br>
+           <p align= "center"> <a href= "Carcinomas.html" class="btn">Next Page</a></p>
+        
+    
+</body>
+</HTML>

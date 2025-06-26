@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+   <link rel= "stylesheet" href= "style.css">
+</head>  
+
+<body>
+
+
+
+
+        <nav class="nav">
+            <a href="Intro.html">HOME</a>
+            <a href="Home cancer.html">CANCER</a>
+            <a href="Carcinomas.html">CARCINOMAS</a>
+            <a href="Sarcomas cancer.html" class="active">SARCOMAS</a>
+            <a href="Soft Tissue Sarcoma.html">SOFT TISSUE SARCOMA</a>
+            <a href="Bone Sarcoma.html">BONE SARCOMA</a>
+            <a href="Metastasis.html">METASTASIS</a>
+            <a href="Lipomas.html">LIPOMAS</a>
+            <a href="Myelomas cancer.html">MYELOMAS</a>
+            <a href="Leukemias.html">LEUKEMIAS</a>
+            <a href="Lymphomas.html">LYMPHOMAS</a>
+            <a href="Contact.html">CONTACT US</a>
+        </nav>
+
+
+            <h3><center>SARCOMAS</center></h3>
+<p>A sarcoma is a <i>rare</i> type of <b>malignant</b> tumor that develops in the bone and connective tissues such as fat, muscle, blood vessels, nerves and tissues surrounding the bones and joints.<br> Sarcomas can form in various parts of your body, anywhere from your head to your toes. 
+Sarcomas are rare, making up only 1% of all adult cancer diagnoses and about 15% of childhood cancer diagnoses. According to statistics 40% occur in the <b>lower extremities</b> (legs, ankles and feet), 15% occur in the <b>upper extremities</b> (shoulders, arms, wrists and hands), 30% occur in the trunk, chest wall, abdomen and pelvis and 15% occur in the head and neck.
+<h3>People at Risk of Sarcoma</h3>
+Soft tissue sarcoma is known to commonly occur in adults whereas bone sarcoma is known to occur mostly in children, teens, people assigned male at birth, black or Hispanic people, and people older than 65years.
+
+<h3>Causes Of Sarcoma</h3>
+Sarcomas are formed when <i>immature bone</i> and <i>soft tissue cells</i> have changes to their DNA and develop into cancer cells that grow in an <b>unregulated manner</b>. They eventually form a mass (malignant tumor) that can invade nearby healthy tissues. If left untreated, the cancer cells can travel through the bloodstream or lymphatic system from the primary location where it formed to other places in the body. This is known as <a href="Metastasis.html">metastasis</a> which makes the cancer cells challenging to treat.<br>
+<b>Unfortunately there are no known exact causes of sarcomas.</b>
+<h3>Types of Sarcomas</h3>
+There are two main types of which are;
+<ol>	
+   <li><a href= "Soft Tissue Sarcoma.html" class="btn">Soft Tissue Sarcoma.</a></li>
+   <li><a href= "Bone Sarcoma.html" class="btn">Bone Sarcoma.</a></li>
+</ol>
+
+<h3>Risk Factors Associated With Sarcoma</h3>
+Certain factors may increase a person’s risk of developing sarcomas. These may include (but not limited to);
+<ul>
+   <li>Exposure to chemicals such as arsenic, vinyl chloride monomer, herbicides like phenoxyacetic acid, and wood preservatives like chlorophenols.</li>
+   <li>Exposure to high radiation levels from places of work, entertainment or from previous cancer treatment. </li>
+   <li>Certain genetic conditions, inherited disorders, and chromosome mutations such as retinoblastoma, gardner syndrome, and tuberous sclerosis.</li>  
+</ul>
+
+<br>
+           <p align= "center"> <a href= "Soft Tissue Sarcoma.html" class="btn">Next Page</a></p>
+            
+
+
+
+</body>
+</HTML>
